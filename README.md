@@ -1,7 +1,7 @@
 # View-Handle-Protocols
 ![Swift 3.0.x](https://img.shields.io/badge/Swift-3.0.x-orange.svg)  ![platforms](https://img.shields.io/badge/platforms-iOS-lightgrey.svg)
 
-By simply adding a protocol, you can make your view in `movable`, `resizable`, `recallable`, and `rotatable` way.
+By simply adding a protocol, you can make your view in `movable`, `resizable`, `rescalable`, and `rotatable` way.
 
 <img src="./example.gif" width="300">
 
